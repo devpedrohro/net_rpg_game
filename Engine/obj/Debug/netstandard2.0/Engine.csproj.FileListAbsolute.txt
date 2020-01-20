@@ -1,0 +1,8 @@
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Competidor\source\repos\Jogo_RPG\Engine\obj\Debug\netstandard2.0\Engine.pdb

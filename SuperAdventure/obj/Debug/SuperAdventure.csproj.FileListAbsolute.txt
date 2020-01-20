@@ -1,0 +1,12 @@
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\obj\Debug\SuperAdventure.csprojAssemblyReference.cache
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\Competidor\source\repos\Jogo_RPG\SuperAdventure\obj\Debug\SuperAdventure.pdb

@@ -1,0 +1,11 @@
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\bin\Debug\Jogo_RPG.exe.config
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\bin\Debug\Jogo_RPG.exe
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\bin\Debug\Jogo_RPG.pdb
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\bin\Debug\Engine.dll
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\bin\Debug\Engine.pdb
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\obj\Debug\Jogo_RPG.csprojAssemblyReference.cache
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\obj\Debug\Jogo_RPG.Properties.Resources.resources
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\obj\Debug\Jogo_RPG.csproj.GenerateResource.cache
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\obj\Debug\Jogo_RPG.csproj.CopyComplete
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\obj\Debug\Jogo_RPG.exe
+C:\Users\Competidor\source\repos\Jogo_RPG\Jogo_RPG\obj\Debug\Jogo_RPG.pdb
